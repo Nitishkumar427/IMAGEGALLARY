@@ -7,4 +7,5 @@
 # OUTPUT
 
 https://github.com/Nitishkumar427/IMAGEGALLARY/assets/110212209/a1393521-c698-4b36-9358-f323fe29682f
-
+# MYGALLERY
+I have created a image gallery using grid layout. It gives me basic understanding of working of a grid . I would like to thank Code help and Love Bbbar for explaning this project so well so that i able to make it.
